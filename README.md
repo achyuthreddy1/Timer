@@ -1,3 +1,3 @@
 # Timer
 
-Countdown timer app for android 
+Countdown timer app for Ios
